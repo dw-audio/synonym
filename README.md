@@ -1,0 +1,1 @@
+The single most useful command I ever made: instant synonym finder. Great for doing "old fashioned" writing without the aid of an LLM chatbot / inline helper app. 
